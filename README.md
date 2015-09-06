@@ -37,6 +37,6 @@ Time spent: `30 hours`
 
 `https://github.com/saminasikander123/Dropbox-project/blob/master/Dropbox-project-demo.gif`
 
-![Dropbox-project-demo.gif](...)
+![https://github.com/saminasikander123/Dropbox-project/blob/master/Dropbox-project-demo.gif](...)
 
 
