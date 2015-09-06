@@ -35,7 +35,7 @@ Time spent: `30 hours`
 
 ### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
+`https://github.com/saminasikander123/Dropbox-project/blob/master/Dropbox-project-demo.gif`
 
 ![Video Walkthrough](...)
 
